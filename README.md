@@ -35,7 +35,8 @@ Data Sources	Simulated Meta, Google, and Email CSV Data
 Data Transformation	Power Query, Excel
 Design Approach	Storytelling with KPIs, Visuals
 
-![thi](https://github.com/user-attachments/assets/e6607ffb-0ad5![fou](https://github.com/user-attachments/assets/f7350a43-78b8-4221-8de0-e1c2c078a083)
--44d2-a9d2-dd83a0666c71)
 ![first1](https://github.com/user-attachments/assets/e0cd71aa-5e01-4e95-814a-97a4b7a86403)
 ![sec](https://github.com/user-attachments/assets/d61262e5-3498-4eff-84cc-083f97a7a1c3)
+![thi](https://github.com/user-attachments/assets/a3aab237-c159-4222-b601-e4d70fb19572)
+![fou](https://github.com/user-attachments/assets/7036f234-fc4f-49db-a8fc-dccf0740a010)
+
